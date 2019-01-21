@@ -1,6 +1,7 @@
 Please read this "readMe.txt" file before using these codes.
 
-This is an implenmation example of the WTMF strategy with MATLAB 2010, if you use these codes, please cite the paper <A surface defect detection framework for glass bottle bottom using visual attention model and wavelet transform>-submitted to IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS.
+#This is an implenmation example of the WTMF strategy with MATLAB 2010, if you use these codes, please cite the following paper
+X. Zhou, Y. Wang, Q. Zhu, J. Mao, C. Xiao, X. Lu, H. Zhang, “A surface defect detection framework for glass bottle bottom using visual attention model and wavelet transform ,” IEEE Transactions on Industrial Informatics. under review, pp. **, 2019.
 
 There are three folders including "testImages","WTMFmatlab" and "result" which are used to save the tested images, codes of the proposed WTMF strategy and the defect detection results. For the MATLAB codes, there are three .m files: example_ATdetWaveMF.m, funATdetWaveMF.m, funSecondDerGauTradition.m， where example_ATdetWaveMF.m is the main file, please run this file. For this example_ATdetWaveMF.m file, there are 10 parameters, as follows:
 
